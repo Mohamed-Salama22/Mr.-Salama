@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohamed-Salama22
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python & Data Analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, you can send me an email on ...
 
